@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [FrontEnd Roadmap Study](README.md)
 
