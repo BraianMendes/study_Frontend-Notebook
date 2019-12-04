@@ -1,0 +1,30 @@
+{
+	"things":
+	[
+		{
+			"id": 1,
+			"name": "Fries",
+			"image": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Crispy-Oven-Fries-SpendWithPennies-27-480x270.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Overpriced Gourmet Ice Cream",
+			"image": "https://pbs.twimg.com/media/EDpUHPmW4AoLs6I.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Uber",
+			"image": "https://esbrasil.com.br/wp-content/uploads/2019/07/uber-fotografia-guetty-image-696x435.jpg"
+		},
+		{
+			"id": 4,
+			"name": "TV Show Binging",
+			"image": "http://geekandsundry.com/wp-content/uploads/2015/05/binge-watching-3.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Candles",
+			"image": "https://www.washingtonpost.com/resizer/-b2GpuK7s5bsyxaYXYfNt6bBQsY=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/33I74NXII4I6RBCJD7ZGGYE2GE.jpg"
+		}								
+	]
+}
