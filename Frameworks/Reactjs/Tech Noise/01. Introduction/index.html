@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>React Hello World</title>
+	<script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+	<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+	<script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+</head>
+<body>
+	<h1>Hello World by React</h1>
+	<div id="root"></div>
+	<div id="jsx-root"></div>
+	<script type="text/javascript">
+		
+		ReactDOM.render(React.createElement("p", null, "First paragraph using React.") ,  document.getElementById("root"));
+
+	</script>
+	<script type="text/babel">
+			
+		ReactDOM.render(
+				<p>Second paragraph using JSX in React</p>,
+				document.getElementById("jsx-root")
+			);
+
+	</script>
+</body>
+</html>
