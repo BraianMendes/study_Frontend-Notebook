@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<script src="https://fb.me/react-0.14.3.js"></script>
+	<script src="https://fb.me/react-dom-0.14.3.js"></script>
+</head>
+<body>
+
+	<script type="text/javascript">
+		
+		"use strict";
+
+		var HelloWorld = React.createClass({
+
+		render: function() {
+			createElement("h1", null, "Hello World!");
+		},
+
+		});
+
+		var mainElement = document.querySelector("main");
+
+		ReactDOM.render(React.createElement(HelloWorld), mainElement);
+
+	</script>
+
+</body>
+</html>
