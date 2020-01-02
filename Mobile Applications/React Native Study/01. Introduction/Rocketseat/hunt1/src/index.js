@@ -1,7 +1,7 @@
 import React from 'react';
+import { createAppContainer } from 'react-navigation';
 import Routes from './routes';
-import './config/StatusBarConfig';
 
-const App = () => <Routes />;
+const App = createAppContainer(Routes);
 
 export default App;
