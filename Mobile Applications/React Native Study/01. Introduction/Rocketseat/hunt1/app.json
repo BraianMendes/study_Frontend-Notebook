@@ -1,13 +1,12 @@
 {
   "expo": {
-    "name": "hunt1",
-    "slug": "hunt1",
+    "name": "TsunamiReactTools",
+    "slug": "TsunamiReactTools",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,15 +15,18 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },    
+    "ios": {
+      "bundleIdentifier": "com.tsunami.tsunamireactools"
+    },
+    "android": {
+      "package": "com.tsunami.tsunamireactools"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
+    ]
   }
 }
