@@ -8,7 +8,8 @@ I divided it into folders according to the study diagram below. In each folder y
 Every year the diagram is updated and I re-study it again.
 
 ## Summary
-[01. Internet](01_Internet/README.md)
+<ol>
+<li>[01. Internet](01_Internet/README.md)</li>
 [02. Basic Web Languages](02_Basic_Web_Languages/README.md)
 [03. Version Control System](03_Version_Control_System/README.md)
 [04. Web Security](04_Web_Security/README.md)
@@ -31,6 +32,8 @@ Every year the diagram is updated and I re-study it again.
 [21. Web Assembly](21_Web_Assembly/README.md)
 [22. Design Systems](22_Design_Systems/README.md)
 [23. Requests to APIs and Others](23_Requests_to_APIs_and_Others/README.md)
+</ol>
+
 
 ![](.gitbook/assets/frontend.png)
 
