@@ -58,5 +58,5 @@ Every year the diagram is updated and I re-study it again.
 
 ## Front-End Diagram
 
-![](.gitbook/assets/frontend.png)
+![](.gitbook/assets/frontend.pdf)
 
