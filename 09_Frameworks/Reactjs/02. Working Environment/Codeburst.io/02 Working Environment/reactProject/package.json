@@ -30,7 +30,7 @@
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "style-loader": "^1.0.1",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "babel": {
     "presets": [
